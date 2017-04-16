@@ -1,5 +1,7 @@
 # load-json5-file
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/load-json5-file.svg)](https://greenkeeper.io/)
+
 > Read and parse a JSON5 file
 
 <!--@shields('npm', 'travis')-->
